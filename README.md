@@ -13,3 +13,5 @@ My first repository
 # My Favorite Series
 1. Extraordinary Attorney Woo
 [Extraordinary Attorney Woo](https://en.wikipedia.org/wiki/Extraordinary_Attorney_Woo)
+2. The Good Doctor
+[The Good Doctor](https://en.wikipedia.org/wiki/The_Good_Doctor_(TV_series))
